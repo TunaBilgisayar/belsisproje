@@ -1,0 +1,24 @@
+/*TABLO ÖZELLİKLERİ*/
+
+/*table,th,td{
+
+    border: 1px solid;
+
+}*/
+/* YATAY HİZALAMA
+td{
+    text-align: center;
+}
+*/
+/* Max width kullanmak tarayıcıların küçük sekmeleri iyileştirmesini sağlar. Bir siteyi küçük cihazlarda kullanmak için önemlidir
+div.ex1 {
+    width: 500px;
+    margin: auto;
+    border: 3px solid #73AD21;
+}
+
+div.ex2 {
+    max-width: 500px;
+    margin: auto;
+    border: 3px solid #73AD21;
+}*/

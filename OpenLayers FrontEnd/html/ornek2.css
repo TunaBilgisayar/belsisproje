@@ -1,0 +1,56 @@
+/*Sıralanmamış listeler (<ul>) - liste öğeleri madde işaretleriyle işaretlenir 
+Sıralı listeler (<ol>) - liste öğeleri sayı veya harflerle işaretlenir*/
+/*Görüntü gözükmez ise değeri gözükür*/
+/*ul.a{
+    list-style-type:circle ;
+}
+ul.b{
+    list-style-type:square;
+}
+ol.c{
+    list-style-type:upper-roman;
+}
+ol.d{
+    list-style-type: lower-alpha;
+}
+*/
+
+/* list-style-position listedeki işaretçilerinin konumunu belirtir. baştaki 1 2 3 şeklinde sıralama sayıları*/
+/*
+ul.a{
+    list-style-position: outside; 
+}
+ul.b{
+    list-style-position: inside;
+}
+ul{
+    list-style-type: none; baştaki işaretçileri kaldırmak için kullanılabilir
+    margin:0;
+    padding:0;
+}
+ul.c{
+    tüm liste özelliklerini tek bir bildirimde ayarlamak için kullanılır
+    list-style: square inside url("sqpurple.gif");
+ }
+ */
+/*<ol>veya <ul>etiketine eklenen her şey tüm listeyi etkilerken,
+<li>etiketine eklenen özellikler tek tek liste öğelerini etkiler*/
+/*ol{
+    background: #ff9999;
+    padding: 20px;
+ }
+ ul{
+    background: #3399;
+    padding: 20px;
+ }
+ ol li{
+        background: #ffe5e5;
+        color: darkred;
+        padding: 5px;
+        margin-left: 35px;
+ }
+ ul li{
+    background: #cce5ff;
+    color:darkblue;
+    margin:5px;
+ }*/
